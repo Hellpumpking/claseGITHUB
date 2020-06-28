@@ -4,7 +4,7 @@ Created on Sat May 23 08:16:35 2020
 
 @author: KEVIN
 """
-#CDE
+#CDEFGH
 ####### crear el polígono general ##########
 import shapefile
 
